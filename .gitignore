@@ -1,0 +1,23 @@
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore virtual environments
+venv/
+env/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore SSH and sensitive info
+.ssh/
+*.pem
+
+# Ignore IDE/editor files
+.vscode/
+.idea/
+
+# Ignore OS temp files
+*.log
+*.tmp
